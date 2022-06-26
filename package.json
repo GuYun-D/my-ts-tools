@@ -1,0 +1,21 @@
+{
+  "name": "gy-ts-tools",
+  "version": "0.0.1",
+  "description": "总结在平时工作和学习中用到的函数，使用TypeScript进行封装",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ts",
+    "tool"
+  ],
+  "author": "GuYunD",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.7.4"
+  }
+}
